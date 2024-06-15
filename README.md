@@ -1,7 +1,7 @@
 # Integrated Marketing Campaign Report
 
 ## Project Overview
-Idea Creative Co advertises across multiple (5) marketing channels which include:
+Idea Co advertises across multiple (5) marketing channels which include:
 1.	Facebook Ads
 2.	Google Ads
 3.	Microsoft Ads
@@ -10,10 +10,9 @@ Idea Creative Co advertises across multiple (5) marketing channels which include
 
 ## Current State
 Idea Co currently exports data from each platform (through a marketing portal) as CSV files and then import them into Excel to manually create reports. This process is both time consuming and inefficient as these reports are only produced once a week, meaning Idea Co ends up being more reactive than proactive to changes in campaign performance.
-Furthermore, it is becoming increasingly challenging to understand the impact of our marketing efforts due to data being siloed in different places.
+<p>Furthermore, it is becoming increasingly challenging to understand the impact of our marketing efforts due to data being siloed in different places.
 The marketing portal has basic reporting capabilities but it cannot be tailored to specific company needs, moreover, the subscription price is above planned budget.
-<br>
-<br> Below is a process map of the current state. The orange colored processes denote slow, manual processes to be changed.
+<p> Below is a process map of the current state. The orange colored processes denote slow, manual processes to be changed.
 <br>
 <br>
 ![Current Process](https://github.com/omari20/marketing_campaign_integrated_report/assets/74761870/ed98ac02-bf14-424c-9650-9f1c35aeaf27)
