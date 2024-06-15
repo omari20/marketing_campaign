@@ -12,15 +12,16 @@ Idea Creative Co advertises across multiple (5) marketing channels which include
 Idea Co currently exports data from each platform (through a marketing portal) as CSV files and then import them into Excel to manually create reports. This process is both time consuming and inefficient as these reports are only produced once a week, meaning Idea Co ends up being more reactive than proactive to changes in campaign performance.
 Furthermore, it is becoming increasingly challenging to understand the impact of our marketing efforts due to data being siloed in different places.
 The marketing portal has basic reporting capabilities but it cannot be tailored to specific company needs, moreover, the subscription price is above planned budget.
+<br>
 <br> Below is a process map of the current state. The orange colored processes denote slow, manual processes to be changed.
-
+<br>
 ![Current Process](https://github.com/omari20/marketing_campaign_integrated_report/assets/74761870/ed98ac02-bf14-424c-9650-9f1c35aeaf27)
 
 
 
 ## Desired State
 A company-tailored, user friendly reporting solution will be created that allows the company to measure and track ad campaign performance across all platforms in one single report. The data will be updated daily and contain the most important KPIs, allowing for month-over-month (MoM) and year-over-year (YoY) comparisons.
-
+<br>
 ![Future Process](https://github.com/omari20/marketing_campaign_integrated_report/assets/74761870/ced992bd-dd22-416f-ae65-88ac395d70f3)
 
 
