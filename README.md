@@ -15,10 +15,7 @@ The marketing portal has basic reporting capabilities but it cannot be tailored 
 <p> Below is a process map of the current state. The orange colored processes denote slow, manual processes to be changed.
 <br>
 <br>
-![Current Process](https://github.com/omari20/marketing_campaign_integrated_report/assets/74761870/692adbcb-f8a9-4708-af8b-bcef725519ea)
-
-
-
+![alt text](<resources_/Current Process.png>)
 
 <br>
 <br>
@@ -27,7 +24,7 @@ The marketing portal has basic reporting capabilities but it cannot be tailored 
 A company-tailored, user friendly reporting solution will be created that allows the company to measure and track ad campaign performance across all platforms in one single report. The data will be updated daily and contain the most important KPIs, allowing for month-over-month (MoM) and year-over-year (YoY) comparisons.
 <br>
 <br>
-
+![alt text](<resources_/Future Process.png>)
 
 
 ### Report Specifications (KPIs)
