@@ -1,4 +1,4 @@
-# Integrated Marketing Campaign Report
+# Integrated Marketing Campaign Report [<a href="https://app.powerbi.com/view?r=eyJrIjoiMmU5YjY3YzQtMTI3YS00MjI5LWI2MmMtYmFiZWRlMGJhOWMwIiwidCI6ImM5ZmRhYmU1LTllZWQtNDY1ZC1hY2RmLWMyMjc2YzEyYTBjNiJ9">See Visualization =</a>]
 
 ## 1.0 Project Overview
 Idea Co advertises across multiple (5) marketing channels which include:
@@ -23,8 +23,8 @@ The marketing portal has basic reporting capabilities but it cannot be tailored 
 <br>
 
 ## 2.0 Desired State
-A company-tailored, user friendly reporting solution will be created that allows the company to measure and track ad campaign performance across all platforms in one single report. The data will be updated daily and contain the most important KPIs, allowing for month-over-month (MoM) and year-over-year (YoY) comparisons. 
-<p>Below is a high level process flow of the Future state.
+A company-tailored, user friendly reporting solution will be created that allows the company to measure and track ad campaign performance across all platforms in one single report. The data will be updated daily and contain the most important KPIs, allowing for month-over-month (MoM) and year-over-year (YoY) comparisons.
+<p>Below is a high level process flow of the Future state. 
 <br>
 
 ![FutureProcess_](https://github.com/omari20/marketing_campaign_integrated_report/assets/74761870/1e7c54b6-0df7-4b81-a461-c7ce293914e7)
