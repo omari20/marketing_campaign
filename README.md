@@ -27,8 +27,8 @@ A company-tailored, user friendly reporting solution will be created that allows
 <p>Below is a high level process flow of the Future state.
 <br>
 
+![Future_Process](https://github.com/omari20/marketing_campaign_integrated_report/assets/74761870/83ca86ea-8610-4d82-a8eb-7e175fdbe8e2)
 
-![FutureProcess](https://github.com/omari20/marketing_campaign_integrated_report/assets/74761870/d232e3bd-4098-4655-8c87-e4ac318a66d9)
 
 ### 2.0.1 Report Specifications (KPIs)
 The user will also be able to drill down these KPIs by channels, year, month, campaign, ad group and ad name.
