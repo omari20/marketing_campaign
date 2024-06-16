@@ -34,8 +34,8 @@ A company-tailored, user friendly reporting solution will be created that allows
 The user will also be able to drill down these KPIs by channels, year, month, campaign, ad group and ad name.
 1. Total Impressions
 2. Total Clicks
-3. Global Click-Through-Rates (CTRs)
-4. Total Spend
+3. Click-Through-Rates (CTRs)
+4. Total Spend ($)
 5. Total Conversions
 6. Total Conversions Value ($)
 
