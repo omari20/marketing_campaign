@@ -23,7 +23,7 @@ The marketing portal has basic reporting capabilities but it cannot be tailored 
 <br>
 
 ## 2.0 Desired State
-A company-tailored, user friendly reporting solution will be created that allows the company to measure and track ad campaign performance across all platforms in one single report. The data will be updated daily and contain the most important KPIs, allowing for month-over-month (MoM) and year-over-year (YoY) comparisons. Section 3.0 below goes into more details about creation of the data pipeline and the ETL process. 
+A company-tailored, user friendly reporting solution will be created that allows the company to measure and track ad campaign performance across all platforms in one single report. The data will be updated daily and contain the most important KPIs, allowing for month-over-month (MoM) and year-over-year (YoY) comparisons. 
 <p>Below is a high level process flow of the Future state.
 <br>
 
@@ -39,14 +39,7 @@ The user will also be able to drill down these KPIs by channels, year, month, ca
 5. Total Conversions
 6. Total Conversions Value ($)
 
-## 3.0 Detailed Process
-The paragraphs below goes into greater detail about how the data pipeline was created, transformed and loaded into the visualization tool.
-
-### 3.0.1 Building The Data Pipeline
-Power My Analytics (PMA) is the platform used to store all campaign data. The 
-
-
-
-### Possible Enhancement
-Notify stakeholders via email when a KPI has been met 
+### 2.0.2 Enhancements
+- Create weekly Email/MS Teams notifications to notify stakeholders of reports
+- Create triggers to notify stakeholders when a KPI target has been met 
 
